@@ -1,0 +1,49 @@
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.csproj.AssemblyReference.cache
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.csproj.SuggestedBindingRedirects.cache
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCproiect.Form1.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.Properties.Resources.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.csproj.GenerateResource.cache
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.csproj.CoreCompileInputs.cache
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\bin\Debug\Database1.mdf
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\bin\Debug\Database1_log.ldf
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\bin\Debug\RCProiect.exe.config
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\bin\Debug\RCProiect.exe
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\bin\Debug\RCProiect.pdb
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.exe
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.pdb
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.Form2.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.Form3.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.Form4.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.formADD.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.formREMOVE.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.formUPDATE.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.FormHelpAdd.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.FormHelpRemove.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.FormHelpUpdate.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.FormOptions.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.Form2Help.resources
+C:\Folder\UTCN\An 4-Sem 1\RC\Proiect\RCProiect\obj\Debug\RCProiect.FormAdminHelp.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\bin\Debug\Database1.mdf
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\bin\Debug\Database1_log.ldf
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\bin\Debug\RCProiect.exe.config
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\bin\Debug\RCProiect.exe
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\bin\Debug\RCProiect.pdb
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.csproj.AssemblyReference.cache
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Form1.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Form2.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Form2Help.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Form3.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Form4.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.formADD.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.FormAdminHelp.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.FormHelpAdd.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.FormHelpRemove.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.FormHelpUpdate.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.FormOptions.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.formREMOVE.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.formUPDATE.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.Properties.Resources.resources
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.csproj.GenerateResource.cache
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.csproj.CoreCompileInputs.cache
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.exe
+C:\Folder\Coding\Projects\smart-irrigation-system\WindowsForms\obj\Debug\RCProiect.pdb
